@@ -1,0 +1,9 @@
+C:\Users\Axpa21\source\repos\Custom_Controls\Custom_Controls\bin\Release\Osvaldo_Controls1.dll.config
+C:\Users\Axpa21\source\repos\Custom_Controls\Custom_Controls\bin\Release\Osvaldo_Controls1.dll
+C:\Users\Axpa21\source\repos\Custom_Controls\Custom_Controls\bin\Release\Osvaldo_Controls1.pdb
+C:\Users\Axpa21\source\repos\Custom_Controls\Custom_Controls\obj\Release\Custom_Controls.csproj.AssemblyReference.cache
+C:\Users\Axpa21\source\repos\Custom_Controls\Custom_Controls\obj\Release\Osvaldo_Controls1.Properties.Resources.resources
+C:\Users\Axpa21\source\repos\Custom_Controls\Custom_Controls\obj\Release\Custom_Controls.csproj.GenerateResource.cache
+C:\Users\Axpa21\source\repos\Custom_Controls\Custom_Controls\obj\Release\Custom_Controls.csproj.CoreCompileInputs.cache
+C:\Users\Axpa21\source\repos\Custom_Controls\Custom_Controls\obj\Release\Osvaldo_Controls1.dll
+C:\Users\Axpa21\source\repos\Custom_Controls\Custom_Controls\obj\Release\Osvaldo_Controls1.pdb
